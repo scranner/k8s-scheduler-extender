@@ -1,4 +1,4 @@
-module k8_scheduler_extender
+module k8-scheduler-extender
 
 go 1.13
 
