@@ -1,4 +1,4 @@
-package scheduler_extensions
+package extensions
 
 import (
 	"k8s.io/apimachinery/pkg/types"
