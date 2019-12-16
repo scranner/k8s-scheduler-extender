@@ -1,4 +1,4 @@
-package k8s_scheduler_extender
+package scheduler_extensions
 
 import (
 	"github.com/comail/colog"
