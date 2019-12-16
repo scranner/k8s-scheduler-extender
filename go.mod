@@ -1,4 +1,4 @@
-module k8-scheduler-extender
+module github.com/scranner/k8s_scheduler_extender
 
 go 1.13
 
